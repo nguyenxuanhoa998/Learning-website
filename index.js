@@ -17,7 +17,7 @@ alert("Chỉ số BMI của bạn là: " + bmi);
 
 // Phân loại BMI
 if (bmi < 18.5) {
-  alert("Bạn thuộc nhóm: Gầy");
+  alert("Bạn thuộc nhóm");
 } else if (bmi < 24.9) {
   alert("Bạn thuộc nhóm: Bình thường");
 } else if (bmi < 29.9) {
